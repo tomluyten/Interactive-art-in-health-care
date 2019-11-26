@@ -1,5 +1,5 @@
 
-## Interactive artworks in care
+## (Interactive) art in care : a collection of research and resources
 
 ## Research
 - [The arts are good for you](http://www.euro.who.int/en/publications/abstracts/what-is-the-evidence-on-the-role-of-the-arts-in-improving-health-and-well-being-a-scoping-review-2019) - WHO report on the effects of Art on health care
