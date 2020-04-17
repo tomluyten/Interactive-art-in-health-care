@@ -8,7 +8,7 @@
 
 - [Kunst doet leven](https://www.elisabethvanthuringenprijs.nl/wp-content/uploads/2015/02/2017_09_Magazine_kunst_doet_leven.pdf)
 
-- [Medical Health and Emotional Effects of Art Stimulation in Old Age] - https://www.karger.com/Article/Abstract/288693
+- [Medical Health and Emotional Effects of Art Stimulation in Old Age](https://www.karger.com/Article/Abstract/288693)
 
 ## Organisations / labs
 - [Creative care lab](http://waag.org/nl/lab/creative-care-lab)
