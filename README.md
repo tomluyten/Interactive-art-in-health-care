@@ -9,6 +9,7 @@
 - [Kunst doet leven](https://www.elisabethvanthuringenprijs.nl/wp-content/uploads/2015/02/2017_09_Magazine_kunst_doet_leven.pdf)
 
 - [Medical Health and Emotional Effects of Art Stimulation in Old Age](https://www.karger.com/Article/Abstract/288693)
+-[What is the evidence on the role of the arts in improving health and well-being? A scoping review (2019)](http://www.euro.who.int/en/publications/abstracts/what-is-the-evidence-on-the-role-of-the-arts-in-improving-health-and-well-being-a-scoping-review-2019)
 
 ## Organisations / labs
 - [Creative care lab](http://waag.org/nl/lab/creative-care-lab)
