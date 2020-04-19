@@ -8,6 +8,7 @@
 - [Medical Health and Emotional Effects of Art Stimulation in Old Age](https://www.karger.com/Article/Abstract/288693)
 -[What is the evidence on the role of the arts in improving health and well-being? A scoping review (2019)](http://www.euro.who.int/en/publications/abstracts/what-is-the-evidence-on-the-role-of-the-arts-in-improving-health-and-well-being-a-scoping-review-2019)
 -[An Island of Stability: Art Images and Natural Scenes – but Not Natural Faces – Show Consistent Esthetic Response in Alzheimer’s-Related Dementia](https://www.researchgate.net/publication/235885336_An_Island_of_Stability_Art_Images_and_Natural_Scenes_-_but_Not_Natural_Faces_-_Show_Consistent_Esthetic_Response_in_Alzheimer%27s-Related_Dementia)
+-[why beauty matters - Stefan Sagmeister](https://vimeo.com/209961130)
 
 ## Organisations / labs
 
